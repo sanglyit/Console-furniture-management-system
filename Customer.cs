@@ -38,6 +38,8 @@ namespace Furniture_Manager
             }
             else
             {
+                Console.WriteLine("Customer name: " + CName);
+                Console.WriteLine("Phone numbers: " + Phone);
                 foreach (Furniture o in ListOrder)
                 {
                     o.Show();
