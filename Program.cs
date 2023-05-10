@@ -63,5 +63,5 @@ namespace Furniture_Manager
             } while (!exit);
             Console.ReadLine();
         }
-    }
+    } 
 }
