@@ -1,0 +1,8 @@
+C:\Users\glizt\source\repos\Furniture Manager\obj\Debug\Furniture Manager.csproj.AssemblyReference.cache
+C:\Users\glizt\source\repos\Furniture Manager\obj\Debug\Furniture Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\glizt\source\repos\Furniture Manager\obj\Debug\Furniture Manager.csproj.CoreCompileInputs.cache
+C:\Users\glizt\source\repos\Furniture Manager\bin\Debug\Furniture Manager.exe.config
+C:\Users\glizt\source\repos\Furniture Manager\bin\Debug\Furniture Manager.exe
+C:\Users\glizt\source\repos\Furniture Manager\bin\Debug\Furniture Manager.pdb
+C:\Users\glizt\source\repos\Furniture Manager\obj\Debug\Furniture Manager.exe
+C:\Users\glizt\source\repos\Furniture Manager\obj\Debug\Furniture Manager.pdb
